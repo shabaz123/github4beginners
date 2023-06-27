@@ -74,13 +74,13 @@ Read on, to see a real example of all of these steps. But, just to recap, these 
 |-------------------|--------------------------------------|
 | Clone	            | Make a copy of the main branch code from a GitHub repository, into a local folder|
 |Create Branch	    | Define a new branch name, and set the local folder to show that branch |
-| Publish Branch    | Publish the new branch information to GitHub, so that others can see the branch |
+| Publish Branch (Push)    | Publish the new branch information to GitHub, so that others can see the branch. Incidentally, this is known as a Push operation, if you're not using Visual Code. |
 | Commit            | Create a local checkpoint of your code changes |
-| Sync Changes      | After commit(s), this will upload all the checkpoints to the branch in GitHub, so that others can see your code changes in the branch |
+| Sync Changes (Push)      | After commit(s), this will upload all the checkpoints to the branch in GitHub, so that others can see your code changes in the branch |
 | Pull Request      | Advertise that you have completed feature code ready to be reviewed and merged |
 | Merge             | Add the code from the feature branch, into the main branch |
  Fetch              | Retrieve information from the GitHub repository in the cloud |
-| Sync Changes      | After a fetch operation, this will update the local folder code to the latest |
+| Sync Changes      | After a fetch operation, this will update the local folder code to the latest. Incidentally, this is known as a Merge operation if you're not using Visual Code. |
 
 
 Installing Software
