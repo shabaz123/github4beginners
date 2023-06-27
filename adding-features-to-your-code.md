@@ -49,7 +49,7 @@ The way to understand the diagram is to follow it from left to right. The shaded
 
 The diagram starts at the top-left star shape, which shows the assumption that a repository has already been created and that there is an initial version of code there.
 
-<img width="100%" align="left" src="assets\feature-dev-diagram.png">
+<img width="100%" align="left" src="assets\feature-dev-diagram2.png">
 
 
 A first operation that can be done is to grab a copy of the code onto the local PC; this is done using the Clone operation as mentioned earlier. You can see this is the first black downward arrow at the leftmost side of the diagram. It will dump the code into any folder of your choice. The code is represented by the purple bar. For instance, a clone of a repository called **myapp** could be done into a folder called **C:\my_repositories**, and the result would be a folder **C:\my_repositories\myapp**, containing the code.
