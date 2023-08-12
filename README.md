@@ -8,5 +8,7 @@ Contents
 
 [Incrementally Adding Features to your Code](https://github.com/shabaz123/github4beginners/blob/master/adding-features-to-your-code.md)
 
+[Feature Development for Projects](https://github.com/shabaz123/github4beginners/blob/master/feature-development-for-projects.md)
+
 
 
